@@ -1,6 +1,4 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/BronzeGamerYT) 
-<img alt="img" src="https://media.giphy.com/media/aWRj1FqCdeEmUMqEO6/giphy.gif" width="100%" height="auto" />
-
+<a href="https://www.patreon.com/bePatron?u=51109669" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Bronze_GamerYT)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCtVbevmeSi-HlZOIPMrTqSw)
 
