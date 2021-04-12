@@ -1,4 +1,4 @@
-<a href="https://www.patreon.com/bePatron?u=51109669" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<iframe src="https://discord.com/widget?id=828488740104175647&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Bronze_GamerYT)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCtVbevmeSi-HlZOIPMrTqSw)
 
